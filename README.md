@@ -24,10 +24,10 @@ También puedes añadirlo a `Packages/manifest.json`:
 }
 ```
 
-Versión concreta (tag):
+Rama concreta:
 
 ```
-https://github.com/Asociacion-Pygenesis/PhotopeaOnUnity.git#v1.0.0
+https://github.com/Asociacion-Pygenesis/PhotopeaOnUnity.git#main
 ```
 
 ### Alternativa: desde disco
