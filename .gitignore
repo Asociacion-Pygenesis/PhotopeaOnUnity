@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.csproj
+*.sln
+.vs/
+.idea/
+*.user
+*.pidb
+*.suo

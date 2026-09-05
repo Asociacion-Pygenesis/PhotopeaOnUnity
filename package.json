@@ -1,0 +1,23 @@
+{
+  "name": "com.pygenesis.photopea-on-unity",
+  "version": "1.0.0",
+  "displayName": "Photopea On Unity",
+  "description": "Edita texturas del proyecto en Photopea (navegador) y guarda de vuelta en Unity con Archivo → Guardar.",
+  "unity": "2021.3",
+  "keywords": [
+    "photopea",
+    "texture",
+    "editor",
+    "psd",
+    "png"
+  ],
+  "author": {
+    "name": "Asociación Pygenesis",
+    "url": "https://github.com/Asociacion-Pygenesis"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asociacion-Pygenesis/PhotopeaOnUnity.git"
+  }
+}
